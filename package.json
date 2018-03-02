@@ -1,0 +1,22 @@
+{
+  "name": "fix-url-path-webpack-plugin",
+  "version": "0.0.1",
+  "author": "Razvan Tarnaud",
+  "description": "A Webpack plugin to fix url path in css (Windows)",
+  "dependencies": {
+    "last-call-webpack-plugin": "^2.1.2"
+  },
+  "main": "index.js",
+  "homepage": "https://github.com/rtarnaud/fix-url-path-webpack-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rtarnaud/fix-url-path-webpack-plugin.git"
+  },
+  "keywords": [
+    "CSS",
+    "url",
+    "path",
+    "windows",
+  ],
+  "license": "MIT",
+}
