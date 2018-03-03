@@ -1,6 +1,6 @@
 {
   "name": "fix-url-path-webpack-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Razvan Tarnaud",
   "description": "A Webpack plugin to fix url path in css (Windows)",
   "dependencies": {
